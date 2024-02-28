@@ -1,5 +1,5 @@
 # Web UI Automation Test using Katalon
-Repository ini merupakan automation testing pada website `https://www.saucedemo.com/` menggunakan katalon
+Repository ini merupakan script automation testing pada website `https://www.saucedemo.com/` menggunakan katalon
 
 Berikut ini link test casenya : 
 
